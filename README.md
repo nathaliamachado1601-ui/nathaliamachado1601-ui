@@ -4,28 +4,31 @@ Bem-vindo ao meu perfil do GitHub! 🚀
 
 ## 👩‍💻 Sobre mim
 
-Sou estudante de programação e estou iniciando minha jornada no desenvolvimento de software.
+Sou estudante de **Tecnologia da Informação** e estou iniciando minha jornada na área de programação e desenvolvimento de software.
 
-Atualmente, estou estudando **Python** e buscando desenvolver meus conhecimentos através de exercícios e projetos práticos.
+Atualmente, estou estudando **Python e lógica de programação**, desenvolvendo meus conhecimentos por meio de exercícios e projetos práticos.
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e conhecimentos
 
-* 🐍 Python
+* 🐍 Python — Em estudo
 * 💻 Lógica de programação
 * 📚 Git e GitHub
+* 📊 Excel e Power BI
 * 🚀 Desenvolvimento de projetos
 
 ## 💡 Interesses
 
-Tenho interesse em programação, desenvolvimento de software, automação e aprendizado de novas tecnologias.
+Tenho interesse em **programação, análise de dados, desenvolvimento de software, automação e novas tecnologias**.
 
 ## 🚀 Projetos
 
-Em breve, adicionarei aqui meus principais projetos desenvolvidos durante meus estudos.
+Estou desenvolvendo meus primeiros projetos para colocar em prática os conhecimentos adquiridos durante meus estudos.
+
+Em breve, adicionarei aqui meus principais projetos e repositórios.
 
 ## 📫 Contato
 
-* GitHub: [nathaliamachado1601-ui](https://github.com/nathaliamachado1601-ui)
+* 🐙 GitHub: [nathaliamachado1601-ui](https://github.com/nathaliamachado1601-ui)
 
 ---
 
