@@ -22,14 +22,16 @@ Tenho interesse em **programação, análise de dados, desenvolvimento de softwa
 
 ## 🚀 Projetos
 
-Estou desenvolvendo meus primeiros projetos para colocar em prática os conhecimentos adquiridos durante meus estudos.
+### 💰 Controle Financeiro
 
-Em breve, adicionarei aqui meus principais projetos e repositórios.
+Projeto acadêmico desenvolvido para organizar receitas, despesas e acompanhar o saldo financeiro.
 
-## 📫 Contato
+**Tecnologias utilizadas:**
+- Microsoft Excel
+- Fórmulas do Excel
+- Git
+- GitHub
 
-* 🐙 GitHub: [nathaliamachado1601-ui](https://github.com/nathaliamachado1601-ui)
+🔗 [Ver projeto Controle Financeiro](https://github.com/nathaliamachado1601-ui/controle-financeiro)
 
----
 
-⭐ Obrigada por visitar meu perfil!
