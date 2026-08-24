@@ -30,8 +30,12 @@ Projeto acadêmico desenvolvido para organizar receitas, despesas e acompanhar o
 - Microsoft Excel
 - Fórmulas do Excel
 - Git
-- GitHub
 
-🔗 [Ver projeto Controle Financeiro](https://github.com/nathaliamachado1601-ui/controle-financeiro)
+## 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nathália-machado-3b9082222)
+- 💻 [GitHub](https://github.com/nathaliamachado1601-ui)
+- 🔗 [Ver projeto Controle Financeiro](https://github.com/nathaliamachado1601-ui/controle-financeiro)
+
 
 
